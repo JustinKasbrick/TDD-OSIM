@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OSIM.Core", "OSIM.Core\OSIM.Core.csproj", "{C5E99F54-C1EB-40EB-B74B-A5CEF40CBDE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OSIM.IntegrationTests", "OSIM.IntegrationTests\OSIM.IntegrationTests.csproj", "{91AE084B-2405-4538-A045-01D91EEEAF77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OSIM.UnitTests", "OSIM.UnitTests\OSIM.UnitTests.csproj", "{99508F29-4718-4C6C-A2B3-1793BEAF5FCD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OSIM.WebClient", "OSIM.WebClient\OSIM.WebClient.csproj", "{95F3A360-2A97-4911-BD38-8D6C3504F5BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OSIM.WinClient", "OSIM.WinClient\OSIM.WinClient.csproj", "{2E2B1D72-36D6-432F-8F4E-C4BD9ED99F97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OSIM.ExternalServices", "OSIM.ExternalServices\OSIM.ExternalServices.csproj", "{3459CF09-1D5A-4192-974D-E52794B3AFE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5E99F54-C1EB-40EB-B74B-A5CEF40CBDE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5E99F54-C1EB-40EB-B74B-A5CEF40CBDE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5E99F54-C1EB-40EB-B74B-A5CEF40CBDE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5E99F54-C1EB-40EB-B74B-A5CEF40CBDE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91AE084B-2405-4538-A045-01D91EEEAF77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91AE084B-2405-4538-A045-01D91EEEAF77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91AE084B-2405-4538-A045-01D91EEEAF77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91AE084B-2405-4538-A045-01D91EEEAF77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99508F29-4718-4C6C-A2B3-1793BEAF5FCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99508F29-4718-4C6C-A2B3-1793BEAF5FCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99508F29-4718-4C6C-A2B3-1793BEAF5FCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99508F29-4718-4C6C-A2B3-1793BEAF5FCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95F3A360-2A97-4911-BD38-8D6C3504F5BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95F3A360-2A97-4911-BD38-8D6C3504F5BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95F3A360-2A97-4911-BD38-8D6C3504F5BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95F3A360-2A97-4911-BD38-8D6C3504F5BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E2B1D72-36D6-432F-8F4E-C4BD9ED99F97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E2B1D72-36D6-432F-8F4E-C4BD9ED99F97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E2B1D72-36D6-432F-8F4E-C4BD9ED99F97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E2B1D72-36D6-432F-8F4E-C4BD9ED99F97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3459CF09-1D5A-4192-974D-E52794B3AFE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3459CF09-1D5A-4192-974D-E52794B3AFE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3459CF09-1D5A-4192-974D-E52794B3AFE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3459CF09-1D5A-4192-974D-E52794B3AFE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6769A22B-F073-475B-A0A8-26A3A5AC8C39}
+	EndGlobalSection
+EndGlobal

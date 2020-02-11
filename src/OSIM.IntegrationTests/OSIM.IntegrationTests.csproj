@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="OSIM.WinClient\" />
+    <Folder Include="OSIM.WebClient\" />
+    <Folder Include="OSIM.ExternalServices\" />
+    <Folder Include="OSIM.Core\" />
+  </ItemGroup>
+
+</Project>
